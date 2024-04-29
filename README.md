@@ -13,8 +13,6 @@
 <ul>
   <li>Technologies that are used in Account Mangement Application is JDBC,Java language</li>
   <li>Inclused one jar file which is required here is mysql Connector jar file.</li>
-</ul>
-<ul>
-  <li>Created four packages pojo,util,test,dao</li>
+   <li>Created four packages pojo,util,test,dao</li>
   <li>Its Java SE 11 version which used..</li>
 </ul>
