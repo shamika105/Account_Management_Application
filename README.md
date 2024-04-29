@@ -4,5 +4,6 @@
 <p>Its basic CRUD operations based proejct using JDBC</p>
 <bold>Description:</bold>
 <ul>
-  <li>1.User can Add Account ,update it,or delete it.</li>
+  <li>User can Add Account ,update it,or delete it or access account details by ID.</li>
+  <li>We can store records with help of database</li>
 </ul>
