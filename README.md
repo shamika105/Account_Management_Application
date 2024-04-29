@@ -1,7 +1,7 @@
 <h2>This is a Account_Management_Application Project.</h2>
 <hr>
-<p>Its basic CRUD operations based proejct using JDBC</p>
-<p>Its POJO based DAO layered Application..</p>
+<p>*Its basic CRUD operations based proejct using JDBC</p>
+<p>*Its POJO based DAO layered Application..</p>
 
 <bold>Description:</bold>
 <ul>
